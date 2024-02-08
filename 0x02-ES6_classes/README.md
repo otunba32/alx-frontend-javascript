@@ -1,3 +1,1 @@
-OOP
-JavaScript
-ES6
+0x02-ES6_classes
